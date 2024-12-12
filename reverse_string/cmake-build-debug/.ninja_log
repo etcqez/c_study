@@ -1,0 +1,7 @@
+# ninja log v5
+1	39	1733805944555850002	CMakeFiles/reverse_string.dir/main.c.o	5f087a0485a779fd
+40	82	1733805944597866110	reverse_string	e63881b2bd7aa11b
+2	42	1733806027643015163	CMakeFiles/reverse_string.dir/main.c.o	5f087a0485a779fd
+42	89	1733806027689025479	reverse_string	e63881b2bd7aa11b
+1	42	1733806054421720222	CMakeFiles/reverse_string.dir/main.c.o	5f087a0485a779fd
+43	89	1733806054468267544	reverse_string	e63881b2bd7aa11b
